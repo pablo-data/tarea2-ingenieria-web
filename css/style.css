@@ -1,0 +1,31 @@
+form {
+    padding: 20px;
+}
+
+li {
+    padding: 5px;
+}
+
+label {
+    display: inline-block;
+    width: 120px;
+}
+
+.btn-enviar{
+    display: inline-block;
+    margin: 20px;
+}
+
+.btn-limpiar-datos{
+    display: inline-block;
+    margin: 20px;
+}
+
+textarea {
+    width: 50%;
+    height: 5em;
+}
+
+#mensaje{
+    font-size: 50px;
+}
